@@ -4,6 +4,6 @@
 public class Main {
 
     public static void main(String[] atgs){
-        System.out.print("Test");
+        System.out.print("Test1");
     }
 }
