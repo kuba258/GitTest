@@ -5,4 +5,8 @@ public class CAR {
     private int speed;
     private String name;
     private int weight;
+
+    public CAR(){
+        System.out.print("Test");
+    }
 }
