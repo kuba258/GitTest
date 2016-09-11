@@ -7,6 +7,6 @@ public class CAR {
     private int weight;
 
     public CAR(){
-        System.out.print("Test");
+        System.out.print("Test1");
     }
 }
